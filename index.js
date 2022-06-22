@@ -5,7 +5,7 @@ const first = prompt('Enter your first number');
     }
 
     else if (first == null) {
-        alert('See you next time. Refresh the page to start again ✌');
+        alert('Refresh the page if you want to start again ✌');
     }
 
     else {

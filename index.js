@@ -5,7 +5,7 @@ const first = prompt('Enter your first number');
     }
 
     else if (first == null) {
-        alert('See you next time ✌');
+        alert('See you next time. Refresh the page to start again ✌');
     }
 
     else {
@@ -21,7 +21,7 @@ const first = prompt('Enter your first number');
         }
 
         else if (second == null) {
-            alert('Incomplete arithmetic operation! See you next time ✌');
+            alert('Incomplete arithmetic operation! See you next time! Refresh the page to start again ✌');
         }
         
         else {
@@ -38,7 +38,7 @@ const first = prompt('Enter your first number');
             }
     
             else if (third == null) {
-                alert('Incomplete arithmetic operation! See you next time ✌');
+                alert('Incomplete arithmetic operation! See you next time! Refresh the page to start again ✌');
             }
 
             else {
